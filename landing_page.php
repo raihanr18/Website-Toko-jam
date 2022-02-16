@@ -15,7 +15,7 @@
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
 
   <!-- font -->
-  <link rel="stylesheet" href="main_style.css">
+  <link rel="stylesheet" href="css/main_style.css">
 
     <style type="text/css">      
       .ourteam_wrapper .team{
@@ -63,10 +63,10 @@
         <a class="nav-link" href="#">Beranda<span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="login.php">Login</a>
+        <a class="nav-link" href="auth/login.php">Login</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="form_register.php">Register</a>
+        <a class="nav-link" href="auth/register.php">Register</a>
       </li>
     </ul>
   </div>
